@@ -28,3 +28,4 @@ module.exports.getAdmin = async (req, res) => {
         })
     }
 }
+
